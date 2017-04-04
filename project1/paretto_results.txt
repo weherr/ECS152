@@ -1,0 +1,45 @@
+--PARETTO RESULTS WITH INFINITE BUFFER--
+
+sRate = 1
+aRate = 0.1
+utilization:4.78317e-19
+pkts dropped: 0
+mean q len: 9.12396e-21
+
+sRate = 1
+aRate = 0.25
+utilization:7.29646e-13
+pkts dropped: 0
+mean q len: 9.67972e-12
+
+sRate = 1
+aRate = 0.4
+utilization:3.31365e-08
+pkts dropped: 0
+mean q len: 1.76832e-09
+
+sRate = 1
+aRate = 0.55
+utilization:4.90159e-05
+pkts dropped: 0
+mean q len: 3.70666e-06
+
+sRate = 1
+aRate = 0.65
+utilization:0.000863149
+pkts dropped: 0
+mean q len: 8.04677e-05
+
+
+sRate = 1
+aRate = 0.8
+utilization:0.0129666
+pkts dropped: 0
+mean q len: 0.00148704
+
+
+sRate = 1
+aRate = 0.9
+utilization:0.0393231
+pkts dropped: 0
+mean q len: 0.00533411
